@@ -6,7 +6,7 @@ O objetivo da aplicação é escolher uma raça de felino e exibir na tela o nom
 
 ## Tecnologias
 
-- React 3.0, HTML, CSS, Javascript e Postman
+- React, HTML, CSS, Javascript e Postman
 
 ## Demonstração
 
