@@ -28,6 +28,44 @@
   color: #61dafb;
 }
 
+.container-filter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  margin: 20px 40px;
+}
+
+.catpic-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter-form {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+}
+
+.description-container{
+   max-width: 580px;
+   padding: 15px 50px;
+}
+
+.base-card {/* 
+  background: var(--secondary-color); */
+  background-color: rgba(215, 215, 215, 0.9);
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  margin-top:50px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
